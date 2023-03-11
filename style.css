@@ -1,0 +1,35 @@
+.row
+{
+    padding: 1%;
+}
+.card-body
+{
+    text-align: center;
+}
+.btn 
+{
+    width: 70%;
+}
+.col-md-4 
+{
+    padding-bottom: 1%;
+}
+.card:hover
+{
+    border-width: medium;
+}
+.chart-container
+{
+    width: 100%;
+    padding: 2%;
+    align-content: center;
+    
+}
+.col-md-10
+{
+    max-width: 70%;
+}
+.col-sm-6
+{
+    max-width: 100%;
+}
